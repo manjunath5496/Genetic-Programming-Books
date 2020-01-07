@@ -7,7 +7,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(2).pdf" style="text-decoration:none;">Genetic Data Analysis II: Methods for Discrete Population Genetic Data </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(3).pdf" style="text-decoration:none;">Genetic Programming: Theory and Practice II</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(4).pdf" style="text-decoration:none;">Methods of Mathematical Physics, Vol. 1</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(4).pdf" style="text-decoration:none;">Pattern Recognition Using Genetic Programming for Classification of Diabetes and Modulation Data</a></b></li>
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(5).pdf" style="text-decoration:none;">Foundations of Genetic Programming</a></b></li>  
    
@@ -39,7 +39,20 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(20).pdf" style="text-decoration:none;"> Genetic Programming in Mathematica</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(21).pdf" style="text-decoration:none;">Genetic Programming: Theory and Practice VIII</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(22).pdf" style="text-decoration:none;"> Genetic Programming: Theory and Practice X</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(23).pdf" style="text-decoration:none;">Genetic Programming: Theory and Practice XIII</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(24).pdf" style="text-decoration:none;">Learning Basic Genetics with Interactive Computer Programs</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(25).pdf" style="text-decoration:none;">Evolving Artificial Neural Networks using Cartesian Genetic Programming</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(26).pdf" style="text-decoration:none;">Cartesian Genetic Programming</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(27).pdf" style="text-decoration:none;"> Genetic Programming: Theory and Practice XI</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/gne(28).pdf" style="text-decoration:none;"> Genetic and Evolutionary Computation – GECCO 2004</a></b></li>
 
 
 
